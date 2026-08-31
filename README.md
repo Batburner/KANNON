@@ -6,3 +6,4 @@ This is the hosting & online distrubution website for the zine KANNON. All volum
 
 [Internet Archive](https://archive.org/details/@batburner)
 
+[Instagram](https://www.instagram.com/batburner/)
