@@ -4,5 +4,5 @@ This is the hosting & online distrubution website for the zine KANNON. All volum
 
 [Words & Shit From my Brain by BATBURNER](https://github.com/Batburner/KANNON/blob/main/A4_POETRYZINE1%20(1).pdf)
 
-[Internet Archive](https://archive.org/details/@batburner)(https://archive.org/details/@batburner)
+[Internet Archive](https://archive.org/details/@batburner)
 
