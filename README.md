@@ -6,6 +6,8 @@ ZINES
 [Words & Shit From my Brain by BATBURNER](https://github.com/Batburner/KANNON/blob/main/A4_POETRYZINE1%20(1).pdf)
 
 
+LINKS
+
 
 [Internet Archive](https://archive.org/details/@batburner)
 
